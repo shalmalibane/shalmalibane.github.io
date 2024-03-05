@@ -8,27 +8,18 @@ links:
     url: "https://drive.google.com/file/d/1PeZCa1uPHPZqJKAPgfjGZnZYkcD7CN_1/view?usp=sharing"
   - label: Twitter
     url: "https://twitter.com/BaneShalmali"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?user=Ap4oT5QAAAAJ&hl=en"
+    
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Shalmali Bane is a reproductive and perinatal epidemiologist living in the Bay Area, 
-California. She received her doctorate in Epidemiology and Population Health from 
-Stanford University. Her dissertation examined the association of neighborhood 
-factors and birth hospital with racial and ethnic disparities in low-risk cesarean 
-birth, as well as impact on downstream severe maternal morbidity. During her time 
-at Stanford, she held teaching roles in the departments of Epidemiology 
-(Intermediate Methods, Reproductive Epidemiology), Biology (Genetics, Physiology), 
-and Theater and Performance Studies (Improvisation). She is interested in advanced 
-epidemiological methods such as causal inference as well as community-engaged methods
-to facilitate the rigorous and equitable study of pregnancy. Her research covers 
-healthcare resource use (abortion, cesarean birth), maternal outcomes (severe maternal 
-morbidity), perinatal outcomes (stillbirth, periviable birth), and social epidemiology 
-(racial and ethnic disparities, socioeconomic position, sexual orientation and gender
-identity). Dr. Bane hopes her researchsupports improving reproductive care safely and 
-equitably *for all who choose to give birth*.
+Shalmali Bane is a reproductive and perinatal epidemiologist living in the Bay Area, California. She received her doctorate in Epidemiology and Population Health in 2024 from the Stanford University School of Medicine. Her dissertation examined the association of neighborhood factors and birth hospital with racial and ethnic 
+disparities in low-risk cesarean birth, as well as cesarean birth as a means to reduce downstream severe maternal morbidity. During her time at Stanford, she held teaching roles in the departments of Epidemiology, Biology, and Theatre and Performance Studies including for courses in Genetics, Intermediate Epidemiology, and Improvisation. She is interested in the application of causal inference and advanced epidemiological methods as well as community-engaged research to facilitate the rigorous and equitable study of pregnancy. Her research covers healthcare resource use (abortion, cesarean birth), maternal outcomes (severe maternal morbidity), perinatal outcomes (stillbirth, periviable birth), and social epidemiology (racial and ethnic disparities, socioeconomic
+position). Dr. Bane hopes her research supports improving reproductive care safely and equitably *for all who choose to give birth*.
 
 ## Education
 
