@@ -1,0 +1,51 @@
+---
+title: "Shalmali Bane, PhD"
+image: "shalmali.png"
+links:
+  - label: Linkedin
+    url: "https://www.linkedin.com/in/shalmalibane/"
+  - label: Curriculum vitae
+    url: "https://drive.google.com/file/d/1PeZCa1uPHPZqJKAPgfjGZnZYkcD7CN_1/view?usp=sharing"
+  - label: Twitter
+    url: "https://twitter.com/BaneShalmali"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Shalmali Bane is a reproductive and perinatal epidemiologist living in the Bay Area, 
+California. She received her doctorate in Epidemiology and Population Health in 2024
+from the Stanford University School of Medicine. Her dissertation examined 
+the association of neighborhood factors and birth hospital with racial and ethnic 
+disparities in low-risk cesarean birth, as well as cesarean birth as a means to reduce
+downstream severe maternal morbidity. During her time at Stanford, she held teaching 
+roles in the departments of Epidemiology, Biology, and Theatre and Performance Studies 
+including for courses in Genetics, Intermediate Epidemiology, and Improvisation. She is 
+interested in the application of causal inference and advanced epidemiological methods 
+as well as community-engaged research to facilitate the rigorous and equitable study of
+pregnancy. Her research covers healthcare resource use (abortion, cesarean birth), 
+maternal outcomes (severe maternal morbidity), perinatal outcomes (stillbirth, 
+periviable birth), and social epidemiology (racial and ethnic disparities, socioeconomic
+position). Dr. Bane hopes her research supports improving reproductive care safely and
+equitably *for all who choose to give birth*.
+
+## Education
+
+**Stanford University, School of Medicine** | Stanford, CA
+
+Ph.D., Epidemiology and Population Health | 2021 - 2024
+
+M.S., Epidemiology and Population Health | 2019 - 2021
+
+**Stanford University** | Stanford, CA
+
+B.S. with Honors, Biology | 2012 - 2016
+
+## Experience
+
+**Founding Researcher** | Malama Health | March 2022 - May 2023
+
+**Senior Analyst** | The Analysis Group, Inc. | May 2018 - August 2019
+
+**Analyst** | The Analysis Group, Inc. | August 2016 - May 2018
