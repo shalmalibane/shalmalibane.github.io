@@ -20,15 +20,15 @@ from Stanford University. Her dissertation examined the association of neighborh
 factors and birth hospital with racial and ethnic disparities in low-risk cesarean 
 birth, as well as cesarean birth as a means to reduce downstream severe maternal 
 morbidity. During her time at Stanford, she held teaching roles in the departments of
-Epidemiology, Biology, and Theater and Performance Studies including for courses in 
+Epidemiology, Biology, and Theater and Performance Studies for courses including 
 Genetics, Intermediate Epidemiology, and Improvisation. She is interested in the 
-application of causal inference and advanced epidemiological methods as well as 
-community-engaged research to facilitate the rigorous and equitable study of
+application advanced epidemiological methods such as causal inference as well as 
+community-engaged methodologies to facilitate the rigorous and equitable study of
 pregnancy. Her research covers healthcare resource use (abortion, cesarean birth), 
 maternal outcomes (severe maternal morbidity), perinatal outcomes (stillbirth, 
 periviable birth), and social epidemiology (racial and ethnic disparities, socioeconomic
-position). Dr. Bane hopes her research supports improving reproductive care safely and
-equitably *for all who choose to give birth*.
+position, sexual orientation and gender idendity). Dr. Bane hopes her research 
+supports improving reproductive care safely and equitably *for all who choose to give birth*.
 
 ## Education
 
