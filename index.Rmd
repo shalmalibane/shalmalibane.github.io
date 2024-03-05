@@ -1,5 +1,5 @@
 ---
-title: "Shalmali Bane, PhD"
+title: "Shalmali Bane, Ph.D."
 image: "shalmali.png"
 links:
   - label: Linkedin
