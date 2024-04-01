@@ -1,6 +1,6 @@
 ---
 title: "Shalmali Bane, PhD"
-image: "shalmali.png"
+image: "shalmali.jpeg"
 links:
   - label: Linkedin
     url: "https://www.linkedin.com/in/shalmalibane/"
