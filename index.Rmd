@@ -17,25 +17,71 @@ output:
  
 ## Bio
 
-Shalmali Bane is a reproductive and perinatal epidemiologist living in the Bay Area, California. She received her doctorate in Epidemiology and Population Health in 2024 from the Stanford University School of Medicine. Her dissertation examined the association of neighborhood factors and birth hospital with racial and ethnic 
-disparities in low-risk cesarean birth, as well as cesarean birth as a means to reduce downstream severe maternal morbidity. At Stanford, she held teaching roles in the departments of Epidemiology (Intermediate Methods, Reproductive & Perintal Epidemiology), Biology (Genetics, Physiology, Biochemistry), and Theater & Performance Studies (Improvisation). She is interested in the application of causal inference and advanced epidemiological methods as well as community-engaged research practices to facilitate the rigorous and equitable study of pregnancy. Her research covers topics in healthcare resource use, maternal and infant outcomes, and social epidemiology. Dr. Bane hopes her research supports improving reproductive care safely and equitably *for all who choose to give birth*.
+Shalmali Bane is a reproductive and perinatal epidemiologist from India; she currently lives in the Bay Area, California. She is interested in the application of causal inference and advanced epidemiological methods as well as community-engaged research practices to facilitate the rigorous and equitable study of pregnancy. Dr. Bane hopes her research supports improving reproductive care safely and equitably *for all who choose to give birth*.
+
+Outside of work, she can be found sewing her own clothes, watching CBS's Survivor, or at a Pilates studio. 
 
 ## Education
 
 **Stanford University, School of Medicine** | Stanford, CA
 
- - Ph.D., Epidemiology and Population Health | 2021 - 2024
+ - Ph.D., Epidemiology and Clinical Research | 2021 - 2024
 
- - M.S., Epidemiology and Population Health | 2019 - 2021
+ - M.S., Epidemiology and Clinical Research | 2019 - 2021
 
 **Stanford University** | Stanford, CA
 
  - B.S. with Honors, Biology | 2012 - 2016
+ 
 
-## Experience
+## Research Experience 
+
+**Postdoctoral Research Fellow** | Division of Research | Kaiser Permanente Northern California | August 2024 - Present
+
+ - Advised by Monique Hedderson, PhD 
+ - Fellow in the Translational Research Program 
+
+**Graduate Researcher** | Department of Pediatrics | Stanford School of Medicine | October 2019 - July 2024
+
+ - Advised by Suzan Carmichael, PhD 
+ - Topics: Severe maternal morbidity, stillbirth, cesarean birth, abortion access, health disparities
+
+**Graduate Researcher** | Department of Epidemiology and Population Health | Stanford School of Medicine | October 2021 - June 2024
+
+ - Advised by Julia Simard, ScD
+ - Topic: Diagnostic bias related to systemic lupus erythematosus, qualitative and survey research methods 
+
+ **Affiliated Researcher, The PRIDE Study** | Stanford School of Medicine | January 2023 - June 2024
+
+ - Advised by Juno Obedin-Malivar, MD 
+ - Topic: Family Building among transgender men and non binary individuals
+ 
+ **Graduate Researcher, Lab** | California Perinatal Quality Care Collaborative | April 2020 - June 2022
+
+ - Advised by Henry Lee, MD 
+ - Topic: Periviable birth and active care practices 
+
+
+
+## Professional Experience
 
 **Founding Researcher** | Malama Health | March 2022 - May 2023
 
 **Senior Analyst** | The Analysis Group, Inc. | May 2018 - August 2019
 
 **Analyst** | The Analysis Group, Inc. | August 2016 - May 2018
+
+
+
+## Selected Teaching Experiences
+
+- **Reproductive and Perinatal Epidemiology** | Co-Instructor | Department of Epidemiology and Population Health, Stanford
+
+- **Intermediate Epidemiological Methods** | Teaching Assistant | Department of Epidemiology and Population Health, Stanford 
+
+- **Genetics** | Teaching Assistant | Department of Biology, Stanford 
+
+- **Physiology** | Teaching Assistant | Department of Biology, Stanford 
+
+- **Introduction to Improvisation** | Teaching Assistant | Department of Theater and Performance Studies, Stanford 
+
