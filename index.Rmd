@@ -4,10 +4,6 @@ image: "shalmali.jpeg"
 links:
   - label: Linkedin
     url: "https://www.linkedin.com/in/shalmalibane/"
-  - label: Curriculum vitae
-    url: "https://drive.google.com/file/d/1PeZCa1uPHPZqJKAPgfjGZnZYkcD7CN_1/view?usp=sharing"
-  - label: Twitter
-    url: "https://twitter.com/BaneShalmali"
   - label: Google Scholar
     url: "https://scholar.google.com/citations?user=Ap4oT5QAAAAJ&hl=en"
     
@@ -17,9 +13,9 @@ output:
  
 ## Bio
 
-Shalmali Bane is a reproductive and perinatal epidemiologist from India; she currently lives in the Bay Area, California. She is interested in the application of causal inference and advanced epidemiological methods as well as community-engaged research practices to facilitate the rigorous and equitable study of pregnancy. Dr. Bane hopes her research supports improving reproductive care safely and equitably *for all who choose to give birth*.
+Shalmali Bane is a reproductive and perinatal epidemiologist from India; she currently lives in San Francisco. She is interested in the application of causal inference and advanced epidemiological methods as well as community-engaged research practices to facilitate the rigorous and equitable study of pregnancy. Dr. Bane hopes her research supports improving reproductive care safely and equitably *for all who choose to give birth*.
 
-Outside of work, she can be found sewing her own clothes, watching CBS's Survivor, or at a Pilates studio. 
+Outside of work, she can be found sewing her own clothes, watching CBS's Survivor, or spending time with her cat.  
 
 ## Education
 
