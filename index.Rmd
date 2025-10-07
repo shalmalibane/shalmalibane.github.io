@@ -8,7 +8,7 @@ links:
     url: "https://scholar.google.com/citations?user=Ap4oT5QAAAAJ&hl=en"
     
 output:
-  postcards::solana
+  postcards::trestles
 ---
  
 ## Bio
